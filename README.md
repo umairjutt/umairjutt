@@ -1,64 +1,40 @@
-# Hi, I'm Umair
+# Hi, I am Umair Jutt
 
-**Backend Engineer · Fullstack (Laravel + React) · RAG / AI Engineer**
+**Software Engineer | Laravel, React / TypeScript and Python**
 
-I ship production-grade systems: scalable APIs, realtime apps, and retrieval-augmented AI products. Everything below runs locally with `docker compose up` — no API keys required.
+I have **2 years of professional software engineering experience**. My focus is web applications, backend APIs and the data workflows behind them.
 
-[![Email](https://img.shields.io/badge/Email-umairjutt2014%40gmail.com-blue)](mailto:umairjutt2014@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/umair-jutt/)
-[![Available](https://img.shields.io/badge/Status-Available%20for%20hire-brightgreen)](mailto:umairjutt2014@gmail.com)
+I am open to **remote Software Engineer roles** and **relocation opportunities in Canada and Europe**.
 
-## Flagship projects (pinned)
+[Email](mailto:umairjutt2014@gmail.com) · [LinkedIn](https://www.linkedin.com/in/umair-jutt/)
 
-| Project | What it is | Tech |
-|---------|------------|------|
-| [**ecommerce-api-laravel**](https://github.com/umairjutt/ecommerce-api-laravel) | Scalable e-commerce REST API with Stripe + PayPal + Razorpay, RBAC, queues, Redis caching | Laravel 11, MySQL, Redis, Horizon |
-| [**jobportal-laravel-react**](https://github.com/umairjutt/jobportal-laravel-react) | Fullstack job board with realtime recruiter↔candidate chat over WebSockets | Laravel 11 + Reverb, React 18 + TS + Tailwind + shadcn |
-| [**ragvoice-support-bot**](https://github.com/umairjutt/ragvoice-support-bot) | RAG customer support bot with **voice + text + citations + streaming** — 100% local LLM | FastAPI, pgvector, Ollama (Llama 3.1), Whisper, Piper |
+## Selected public projects
 
-## Supporting projects
+| Project | Engineering focus | Stack |
+| --- | --- | --- |
+| [Job Portal](https://github.com/umairjutt/jobportal-laravel-react) | Candidate/recruiter workflows, role-based access, applications and realtime messaging | Laravel, React, TypeScript, MySQL, Redis |
+| [E-commerce API](https://github.com/umairjutt/ecommerce-api-laravel) | Catalog, carts, order workflows, stock reservation and payment adapter design | Laravel, MySQL, Redis |
+| [API Gateway + Microservices](https://github.com/umairjutt/api-gateway-microservices) | Gateway routing, identity propagation, request correlation and circuit breaking | Node.js, FastAPI, PostgreSQL, Redis |
 
-- [**url-shortener-laravel**](https://github.com/umairjutt/url-shortener-laravel) — Redis-backed slug resolver with click analytics and QR codes
-- [**api-gateway-microservices**](https://github.com/umairjutt/api-gateway-microservices) — Node gateway routing to 3 FastAPI services with JWT propagation + circuit breaker
-- [**redis-rate-limiter**](https://github.com/umairjutt/redis-rate-limiter) — Composer package: sliding window + token bucket via Redis Lua scripts ([Packagist](https://packagist.org/packages/umair/redis-rate-limiter))
-- [**auth-jwt-rbac-laravel**](https://github.com/umairjutt/auth-jwt-rbac-laravel) — Fork-and-go Laravel auth starter: Sanctum + Spatie roles + TOTP 2FA
-- [**realtime-chat-fastapi**](https://github.com/umairjutt/realtime-chat-fastapi) — Horizontally-scalable WebSocket chat with Redis pub/sub fan-out
+These repositories are development projects and technical demos. Each README describes its scope, setup, verification and remaining work.
 
-## Tech I work with daily
+## More technical work
 
-**Backend:** PHP 8.3, Laravel 11, Python 3.11, FastAPI, Node 20
-**Frontend:** React 18, TypeScript, Vite, TailwindCSS, shadcn/ui, TanStack Query
-**Data:** MySQL 8, PostgreSQL 16 (incl. pgvector), Redis 7, Elasticsearch
-**AI/ML:** LangChain, Ollama, Hugging Face Transformers, sentence-transformers, RAG, embeddings, hybrid retrieval
-**Infra:** Docker Compose, GitHub Actions, Railway, Render, Fly.io
+- [Redis Rate Limiter](https://github.com/umairjutt/redis-rate-limiter): PHP sliding-window and token-bucket implementations with Redis Lua and a Laravel adapter.
+- [Realtime Chat](https://github.com/umairjutt/realtime-chat-fastapi): WebSocket chat, Redis pub/sub and PostgreSQL history.
+- [RAG Voice Support Bot](https://github.com/umairjutt/ragvoice-support-bot): an experiment in local retrieval, streamed answers and voice integration.
+- [Laravel Auth Starter](https://github.com/umairjutt/auth-jwt-rbac-laravel): Sanctum authentication, roles and TOTP enrollment.
+- [URL Shortener](https://github.com/umairjutt/url-shortener-laravel): Redis-backed redirects, custom aliases and click analytics.
 
-## How I work
+## Technical focus
 
-- I write tests first for anything that touches money, auth, or distributed state.
-- I prefer boring, observable systems over clever ones.
-- I default to async + queue workers + cache for any user-facing latency budget under 200ms.
-- I document. Every flagship repo has an architecture diagram, an API table, and an honest "Known limitations" section.
+- **Web:** PHP / Laravel, Python / FastAPI, React, TypeScript and Node.js.
+- **Data:** MySQL, PostgreSQL and Redis.
+- **Development:** Git, Docker Compose, GitHub Actions and automated tests.
+- **Exploration:** retrieval-augmented generation, WebSockets and reusable PHP libraries.
 
-## Hire me
+## Opportunities
 
-I'm currently available for:
-- **Full-time** backend / fullstack / RAG-AI roles (remote, EU/US time zones)
-- **Freelance / contract** work (hourly or fixed-scope; rates on request)
+I am interested in Software Engineer roles building web applications and backend services. Contact me to discuss my experience, project contributions and availability for remote work or relocation.
 
-[Email me](mailto:umairjutt2014@gmail.com) with a one-paragraph description of what you're building.
-
----
-
-<!--
-START_PIN_INSTRUCTIONS
-
-Pin these 6 repos on your profile (Settings -> Customize your pins):
-  1. ecommerce-api-laravel
-  2. jobportal-laravel-react
-  3. ragvoice-support-bot
-  4. redis-rate-limiter
-  5. api-gateway-microservices
-  6. realtime-chat-fastapi
-
-END_PIN_INSTRUCTIONS
--->
+**[umairjutt2014@gmail.com](mailto:umairjutt2014@gmail.com)**
