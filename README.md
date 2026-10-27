@@ -4,7 +4,7 @@
 
 I have **2 years of professional software engineering experience**. My focus is web applications, backend APIs and the data workflows behind them.
 
-I am open to **remote Software Engineer roles** and **relocation opportunities in Canada and Europe**.
+I am open to **remote Software Engineer roles** and **relocation opportunities**.
 
 [Email](mailto:umairjutt2014@gmail.com) · [LinkedIn](https://www.linkedin.com/in/umair-jutt/)
 
